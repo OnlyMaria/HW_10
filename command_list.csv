@@ -1,0 +1,139 @@
+    1  git config --global user.name "Maria Namynanik"
+    2  git config --global user.email namunanik2013@gmail.com
+    3  git clone https://github.com/OnlyMaria/HW_10.git
+    4  cd HW_10
+    5  touch text_ignore.txt
+    6  nano .gitignore
+    7  git status
+    8  git add 
+    9  git add .gitignore
+   10  git commin -a
+   11  touch main_test.txt
+   12  git add
+   13  git add main_test.txt
+   14  git commit 
+   15  git clone https://github.com/OnlyMaria/HW_10.git
+   16  cd HW_10
+   17  touch text_ignore.txt
+   18  nano .gitignore
+   19  git status
+   20  git add
+   21  git add .gitignore
+   22  git status
+   23  git commit -m "gitignore"
+   24  touch main_test.txt
+   25  git add main_test.txt
+   26  git commit -m "main_test"
+   27  git branch -b develop
+   28  git checkout -b develop
+   29  git checkout develop
+   30  touch develop_test.txt
+   31  git add develop_test.txt
+   32  git commit -m "develop"
+   33  nano develop_test.txt
+   34  git status
+   35  git add develop_test.txt
+   36  git commit -m "develop 2"
+   37  git checkout main
+   38  git merge develop
+   39  git log
+   40  cd Downloads
+   41  cd Lesoon
+   42  dir
+   43  cd Lesson
+   44  cd HW_10
+   45  dir
+   46  git config --global user.name "Maria Namynanik"
+   47  git config --global user.email namunanik2013@gmail.com
+   48  git clone [200~https://github.com/OnlyMaria/HW_10.git~
+   49  git clone https://github.com/OnlyMaria/HW_10.git
+   50  cd Downloads
+   51  cd Lesson
+   52  git clone https://github.com/OnlyMaria/HW_10.git
+   53  cd HW_10
+   54  touch text_ignore.txt
+   55  nano .gitignore
+   56  git status
+   57  git add .gitignore
+   58  git commit -m "gitignore"
+   59  touch main_test.txt
+   60  git add main_test.txt
+   61  git commit -m "main test"
+   62  git checkout -b develop
+   63  git checkout develop
+   64  touch develop_test.txt
+   65  git add develop_test.txt
+   66  get commit -m "develop"
+   67  git commit -m "develop"
+   68  nano develop_test.txt
+   69  git status
+   70  git add develop_test.txt
+   71  git commit -m "develop 2"
+   72  git checkout main
+   73  git merge develop
+   74  git commit -m "branch"
+   75  history > command_list.csv
+   76  git config --global user.name "Maria Namynanik"
+   77  git config --global user.email namunanik2013@gmail.com
+   78  cd Downloads
+   79  cd Lesson
+   80  git clone https://github.com/OnlyMaria/HW_10.git
+   81  cd HW_10
+   82  touch text_ignore.txt
+   83  nano .gitignore
+   84  git status
+   85  git add .gitignore
+   86  git commit -m "gitignore"
+   87  touch main_test.txt
+   88  git add main_test.txt
+   89  git commit main_test.txt
+   90   git config --global user.name "Maria Namynanik"
+   91   git config --global user.email namunanik2013@gmail.com
+   92  cd Downloads
+   93  cd Lesson
+   94  git clone https://github.com/OnlyMaria/HW_10.git
+   95  cd HW_10
+   96  touch text_ignore.txt
+   97  none .gitignore
+   98  nano .gitignore
+   99  git status
+  100  [200~ git config --global user.name "Maria Namynanik"
+  101  git config --global user.name "Maria Namynanik"
+  102  git config --global user.email namunanik2013@gmail.com
+  103  cd Downloads
+  104  cd Lesoon
+  105  cd Lesson
+  106  git clone https://github.com/OnlyMaria/HW_10.git
+  107  cd HW_10
+  108  touch text_ignore.txt
+  109  nano .gitignore
+  110  git status
+  111  git config --global user.name "Maria Namynanik"
+  112  git config --global user.email namunanik2013@gmail.com
+  113  cd Downloads
+  114  cd Lesson
+  115  gir clone https://github.com/OnlyMaria/HW_10.git
+  116  git clone https://github.com/OnlyMaria/HW_10.git
+  117  cd HW_10
+  118  touch text_ignore.txt
+  119  nano .gitignore
+  120  git status
+  121  git add .gitignore
+  122  git commit -m "gitignore"
+  123  touch main_test.txt
+  124  git add main_test.txt
+  125  git commit -m "main test"
+  126  git checkout -b develop
+  127  touch develop_test.txt
+  128  git add develop_test.txt
+  129  git commit -m "develop"
+  130  nano develop_test.txt
+  131  git status
+  132  git add develop_test.txt
+  133  git add develop_test.txt
+  134  git commit -m "develop2"
+  135  git checkout main
+  136  git merge develop
+  137  history > command_list.csv
+  138  git log
+  139  history > command_list.csv
